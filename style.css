@@ -8,6 +8,12 @@ body {
     background-color: gray;
 }
 
+@media screen and (max-width: 600px) {
+    body {
+        background-color: white;
+    }
+}
+
 .header {
     padding: 90px;
     font-family: 'Times New Roman', Times, serif;
@@ -36,6 +42,11 @@ body {
 
 .header ul li {
     color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
 }
 
 p {
@@ -95,3 +106,27 @@ p {
     background-color: salmon;
     color: white;
 }
+.Published-Applications img {
+    max-height: 250px;
+}
+
+.Contact-Information img {
+    max-height: 250px;
+}
+
+.About-Me img {
+    max-height: 250px;
+}
+
+.Published-Applications h2 {
+    font-size: 30px;
+}
+.Contact-Information h2 {
+    font-size: 30px;
+}
+
+.About-Me h2 {
+    font-size: 30px;
+}
+
+
