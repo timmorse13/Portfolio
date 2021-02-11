@@ -34,6 +34,31 @@ body {
     text-align: end;
 }
 
-.header li {
+.header ul li {
     color: white;
+}
+
+p {
+    font-size: 16px;
+}
+
+.hero {
+    height: 500px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url(prius.jpeg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.float-left {
+    float: left;
+    margin-right: 50px;
+}
+
+.content {
+    width: 80%;
+    display: inline-block;
+    margin-left: 50px;
 }
