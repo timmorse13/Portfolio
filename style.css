@@ -108,14 +108,17 @@ p {
 }
 .Published-Applications img {
     max-height: 250px;
+    max-width: 250px;
 }
 
 .Contact-Information img {
     max-height: 250px;
+    max-width: 250px;
 }
 
 .About-Me img {
     max-height: 250px;
+    max-width: 250px;
 }
 
 .Published-Applications h2 {
