@@ -106,6 +106,19 @@ p {
     background-color: salmon;
     color: white;
 }
+
+.Live-Apps {
+    border-radius: 20px;
+    margin-bottom: 50px;
+    padding: 100px;
+    height: 400px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: salmon;
+    color: white;
+    text-align: center;
+}
+
 .Published-Applications img {
     max-height: 250px;
     max-width: 250px;
@@ -119,6 +132,12 @@ p {
 .About-Me img {
     max-height: 250px;
     max-width: 250px;
+}
+
+.Live-Apps img {
+    max-height: 250px;
+    max-width: 250px;
+    justify-content: space-evenly;
 }
 
 .Published-Applications h2 {
