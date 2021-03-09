@@ -38,29 +38,34 @@ ul.links {
 }
 
 body {
-    background-color: gray;
+    background-image: url("../assets/java.jpg");
+
+
 }
 
 .One {
     border-radius: 10px;
-    background-color: pink;
+    background: radial-gradient(circle, rgba(0,1,36,1) 0%, rgba(101,121,9,1) 0%, rgba(10,155,168,0.8141631652661064) 0%);
     padding: 150px;
     width: 40%;
     margin-top: 70px;
+    color:white;
 }
 
 .Two {
     padding: 150px;
-    background-color: red;
+    background: radial-gradient(circle, rgba(0,1,36,1) 0%, rgba(101,121,9,1) 0%, rgba(117,10,168,0.9318102240896359) 0%);
     border-radius: 10px;
     width: 40%;
     margin-top: 70px;
+    color:white;
 }
 
 .low-body {
     display: flex;
     padding: 150px;
-    background-color: purple;
+    background: rgb(0,1,36);
+    background: radial-gradient(circle, rgba(0,1,36,1) 0%, rgba(101,121,9,1) 0%, rgba(168,22,10,0.861782212885154) 0%);
     width: 80%;
     margin: 0 auto;
     margin-top: 70px;
@@ -82,10 +87,8 @@ body {
 }
 
 .card-body {
-    background-color: maroon;
-    color: white;
+    background-color: wheat;
 }
-
 
 footer {
     width: 100%;
@@ -94,4 +97,5 @@ footer {
     color: white;
     padding: 15px;
     margin-top: 70px;
+    text-align: center;
 }
