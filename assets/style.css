@@ -1,0 +1,36 @@
+* {
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.jumbotron {
+    text-align: center;
+    width: 100%;
+
+}
+
+.my-4{
+    padding: 0;
+}
+
+.One {
+    border-radius: 10px;
+    background-color: pink;
+    padding: 150px;
+    width: 40%;
+}
+
+.Two {
+    padding: 150px;
+    background-color: red;
+    border-radius: 10px;
+    width: 40%;
+}
+
+.low-body {
+    padding: 150px;
+    background-color: gray;
+    margin-top: 70px;
+    border-radius: 90px;
+
+}
